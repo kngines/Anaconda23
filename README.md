@@ -1,5 +1,7 @@
 # anaconda23s
-- 注释: 数据分析工具搭建及常用技巧
+- 数据分析工具搭建及使用常见问题与总结
+	- anaconda + odps
+	- [anaconda + hive](https://blog.csdn.net/qq_24452475/article/details/94319179)
 
 ### 构建文档详细版
 - Anaconda环境安装以及搭建Python多内核环境.docx 
